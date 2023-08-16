@@ -1,0 +1,7 @@
+Reproduzir o erro informado;
+Buscar entender os logs presentes após a reprodução;
+Caso fosse um erro novo iria atrás de pesquisa com companheiros de time e internet;
+Verificaria o código para identificar de qual função está surgindo o erro.
+Corrigido, faria testes manuais e unitarios;
+Subir o teste para teste do QA
+Finalizar a tarefa.

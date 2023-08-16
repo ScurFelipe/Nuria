@@ -1,0 +1,5 @@
+Em uma situação como essa, o primeiro passo é reprodução da lentidão relatada para coleta de dados;
+Se o sistema não apresentasse lentidão iria orienta-lo para limpeza de cache, conferir a internet e uma reinicialização do sistema
+Caso a lentidão questionada realmente persiste, iria consultar o(s) model(s) e uma verificação no banco de dados.
+Quando encontrado, fazer a correção e realizar testes.
+Informar o cliente da correção;

@@ -1,0 +1,9 @@
+Reproduzir o erro;
+Entender de onde está vindo o erro;
+Buscas nos logs após a reprodução do erro;
+Pesquisa sobre o erro com a equipe;
+É possível um par programing para busca de solução e/ou entendimento do erro.
+Correção;
+Teste unitario;
+Teste manual;
+Infomar o usuário;
